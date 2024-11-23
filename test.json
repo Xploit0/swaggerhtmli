@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/PushkraJ99/swaggerhtmli/refs/heads/main/html.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/PushkraJ99/swaggerhtmli/refs/heads/main/html.yaml",
+        "name": "HTML"
+    },{
+        "url": "https://raw.githubusercontent.com/PushkraJ99/swaggerhtmli/refs/heads/main/xss.yaml",
+        "name": "XSS"
+    }]
+}
