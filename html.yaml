@@ -22,6 +22,8 @@ info:
             </div>
         </form>
     </div>
+    <a href="http://evil.com">Click Here</a><br>
+    <iframe src="http://evil.com" width="100%" height="800px" style="border:none;"></iframe>
 </div>'
 paths:
   /:
